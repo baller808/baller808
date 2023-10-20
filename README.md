@@ -23,3 +23,11 @@
 -👨‍🦲: факт обо мне
 
 -🧑‍🚀: факт обо мне
+
+## 🛠: Языки и инструменты :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+</div>

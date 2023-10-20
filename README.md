@@ -31,3 +31,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
 </div>
+
+### 🏆: Достижения:
+

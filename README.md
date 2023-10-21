@@ -43,3 +43,9 @@
 <div>
   <img src="https://github.com/github-readme-stats.vercel.app/api/top-langs/?username=baller808" alt=""/>
 </div>
+
+### 📊 Статистика активности:
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baller808&theme=guthub-compact" alt=""/>
+</div>

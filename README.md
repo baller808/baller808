@@ -34,3 +34,7 @@
 
 ### 🏆 Достижения:
 
+<div>
+<img src="https://github.com/github-profile-trophy.vercel.app/?username-baller808" alt=""/>
+</div>
+

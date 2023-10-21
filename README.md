@@ -47,5 +47,5 @@
 ### 📊 Статистика активности:
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baller808&theme=guthub-compact" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baller808&theme=merco" alt=""/>
 </div>

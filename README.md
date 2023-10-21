@@ -38,3 +38,8 @@
 <img src="https://github.com/github-profile-trophy.vercel.app/?username-baller808" alt=""/>
 </div>
 
+### ⌨️ Наиболее используемые языки:
+
+<div>
+  <img src="https://github.com/github-readme-stats.vercel.app/api/top-langs/?username=baller808" alt=""/>
+</div>
